@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### Bem-vindo a minha página pessoal
+### Welcome to my personal page
 
-Olá! Eu sou Juliana Damurie e atualmente sou estudante de doutorado no laborátorio LIRIS na INSA Lyon em colaboção com Laboratório Hubert Curien. 
+Hello! I am Juliana Damurie, and I am currently a PhD student at the LIRIS laboratory at INSA Lyon in collaboration with the Hubert Curien Laboratory.
